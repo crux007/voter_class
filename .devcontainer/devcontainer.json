@@ -1,0 +1,9 @@
+{
+  // configuration name
+  "name": "Codespace for Skills!",
+  // Using the microsft base image for codespace
+  "Image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+
+  "remoteUser": "codespace",
+  "overrideCommand": false
+}
